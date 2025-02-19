@@ -1,2 +1,10 @@
-# eks_guide
-Comprehensive guide to setting up aws eks
+# EKS Guide
+
+AWS에 EKS를 구성하기 위해 개념이해와 방법에 대해 학습한다.
+
+## 커리큘럼
+
+## Q&A
+
+## 목차
+### 
